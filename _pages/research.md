@@ -4,7 +4,7 @@ layout: archive
 permalink: /research/
 ---
 
-My research aims to improve maternal and child health and development through the design and evaluation of effective, sustainable, and scalable interventions that center local capacity. A brief summary of the In my current and previous work I have focused on the three areas outlined below:
+My research aims to improve maternal and child health and development through the design and evaluation of effective, sustainable, and scalable interventions that center local capacity. In my current and previous work I have focused on the three areas outlined below:
 
 ### Scalable caregiving interventions for early child development
 I have contributed to the design and evaluation of three group-based early-child development interventions designed to answer questions about the integration of components for multiple risk factors beyond stimulation in the home ([Pitchik et al, 2021](https://gh.bmj.com/content/6/3/e004307.abstract)), the effectiveness of group-based intervention delivery ([Luoto et al, 2021](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(20)30469-1/fulltext)), and I am the feasibility and effectiveness of integration with the government health system (Pitchik et al., Paper in progress). Together, this work aims to answer questions about the optimal content and delivery of interventions to improve early child development in LMIC settings.
