@@ -84,7 +84,7 @@ author:
   avatar           : "headshot.png"
   bio              : (she/her/hers)<br/>
                      hpitchik [at] berkeley [dot] edu
-  location         : "California, USA"
+  location         : # "California, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=BF8tUyoAAAAJ&hl=en"
