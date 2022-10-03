@@ -49,8 +49,8 @@ $type-size-8                : 0.625em;  // ~10px
 
 $white                      : #ffffff; /* added */
 $gray                       : #7a8288;
-$dark-gray                  : mix(#000, $gray, 100%); /* edited from 40% */
-$darker-gray                : mix(#000, $gray, 100%); /* edited from 60% */
+$dark-gray                  : mix(#000, $gray, 40%); /* edited from 40% */
+$darker-gray                : mix(#000, $gray, 60%); /* edited from 60% */
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
