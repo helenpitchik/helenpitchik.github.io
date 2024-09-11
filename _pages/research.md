@@ -4,7 +4,7 @@ layout: archive
 permalink: /research/
 ---
 
-My equity-focused research aims to improve maternal and child health and child development. In my current and previous work I have focused on the three areas outlined below:
+My equity-focused research aims to inform interventions to improve maternal and child health and child development. In my current and previous work I have focused on the three areas outlined below:
 
 ### Scalable caregiving interventions for early child development
 I have contributed to the design and evaluation of three group-based early-child development interventions designed to answer questions about the integration of components for multiple risk factors beyond stimulation in the home (<a href="https://gh.bmj.com/content/6/3/e004307.abstract" target="_blank" rel="noopener noreferrer">Pitchik et al, 2021</a>), the effectiveness of group-based intervention delivery (<a href="https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(20)30469-1/fulltext" target="_blank" rel="noopener noreferrer">Luoto et al, 2021</a>), and the feasibility and effectiveness of integration with the government health system (Pitchik et al., Paper in progress). Together, this work aims to answer questions about the optimal content and delivery of interventions that can be delivered at scale to improve early child development in LMIC settings.
