@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-My CV is available for download [here](https://helenpitchik.github.io/files/HelenPitchik_CV_Jan2024.pdf).
+My CV is available for download [here](https://helenpitchik.github.io/files/HelenPitchik_CV_aug2024.pdf).
