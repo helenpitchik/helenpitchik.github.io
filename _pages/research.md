@@ -18,4 +18,4 @@ I have focused on maternal mental health within my work on early child developme
 
 For a full list of my publications, see <a href="https://www.ncbi.nlm.nih.gov/myncbi/helen.pitchik.1/bibliography/public/">here</a>. If any of my work is not accesssable to you, send me an email and I'd be happy to share.  
 
-* represents co-first authorship, authors contributed equally to this work
+*represents co-first authorship, authors contributed equally to this work
